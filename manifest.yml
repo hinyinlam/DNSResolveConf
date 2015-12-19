@@ -1,0 +1,9 @@
+---
+applications:
+- name: dnsresolveconf
+  memory: 512M
+  path: target/DNSResolveConf-0.0.1-SNAPSHOT.jar
+  env:
+    JAVA_OPTS: '-Dsun.net.spi.nameservice.provider.1=dns,sun -Dsun.net.spi.nameservice.nameservers=8.8.8.8 -Dsun.net.spi.nameservice.domain=pcf-on-aws.net'
+    
+
