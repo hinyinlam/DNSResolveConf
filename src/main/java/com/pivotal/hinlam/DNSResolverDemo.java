@@ -43,6 +43,17 @@ public class DNSResolverDemo {
 		} catch (UnknownHostException e) {
 			message += e.getMessage();
 		}
+		
+		message = message + "<br/><h2>Here is a list of query result from querying full DNS name: \"www.google.com\":</h2><br/>";
+		try {
+			dnsResults = InetAddress.getAllByName("www.google.com");
+			for(InetAddress result: dnsResults){
+				message = message + result.toString() + "<br/>\n";
+			}
+		} catch (UnknownHostException e) {
+			message += e.getMessage();
+		}
+		
     	return message;
     }
 }
