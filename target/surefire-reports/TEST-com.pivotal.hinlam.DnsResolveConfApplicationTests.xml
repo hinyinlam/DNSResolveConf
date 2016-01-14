@@ -14,7 +14,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="Z:\Downloads\DNSResolveConf"/>
+    <property name="user.dir" value="z:\Downloads\DNSResolveConf"/>
     <property name="java.runtime.version" value="1.6.0_45-b06"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="c:\jdk1.6.0_u45\jre\lib\endorsed"/>
@@ -26,7 +26,7 @@
     <property name="os.name" value="Windows 7"/>
     <property name="classworlds.conf" value="c:\apache-maven-3.0.4-bin\apache-maven-3.0.4\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="c:\jdk1.6.0_u45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:\jdk1.6.0_u45\bin\;c:\apache-maven-3.0.4-bin\apache-maven-3.0.4\bin;c:\jdk1.6.0_u45\bin\;c:\apache-maven-3.3.9\bin;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;&quot;C:\Program Files (x86)\Common Files\EMC&quot;;;."/>
+    <property name="java.library.path" value="c:\jdk1.6.0_u45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:\jdk1.6.0_u45\\bin;d:\jre7\\bin;c:\jdk1.6.0_u45\\bin;%JAVA_HOME\bin;d:\jre7\\bin;c:\jdk1.6.0_u45\bin\;c:\apache-maven-3.0.4-bin\apache-maven-3.0.4\bin;c:\jdk1.6.0_u45\bin\;c:\apache-maven-3.3.9\bin;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;&quot;C:\Program Files (x86)\Common Files\EMC&quot;;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="50.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
